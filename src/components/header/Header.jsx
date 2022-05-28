@@ -7,6 +7,7 @@ import HeaderSocials from './HeaderSocials'
 
 const Header = () => {
   return (
+    <header>
     <div className="container header_container">
       <h5>Hello I am </h5>
       <h1>Mohamed Ait Koliche</h1>
@@ -21,6 +22,7 @@ const Header = () => {
 
       <a href="#contact" className='scroll__down'>Scroll Down</a>
     </div>
+    </header>
   )
 }
 
