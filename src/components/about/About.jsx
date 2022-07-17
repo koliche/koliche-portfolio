@@ -40,8 +40,8 @@ const About = () => {
             </div>
             <p>
               I am currently a student in my first year of Master’s degree in Computer Science Engineering and I am
-            looking for a practical internship in one of those domain mobile development(Flutter) or web development(Spring/Vue js), integrated in my training.I am very interested in completing my internship within
-            your company and gaining new skills.
+            looking for a practical internship in one of those domain mobile development or web development, integrated in my training.I am very interested in completing my internship within
+            a company and gaining new skills.
             </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

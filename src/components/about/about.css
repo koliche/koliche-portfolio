@@ -20,6 +20,10 @@
     transition: var(--transition);
 }
 
+.about__content a{
+    margin-left: 49%;
+}
+
 .about_me-image:hover {
     transform: rotate(0);
 }
