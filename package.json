@@ -1,6 +1,6 @@
 {
-  "homepage": "https://koliche/koliche.github.io",
-  "name": "koliche.github.io",
+  "homepage": "https://koliche.github.io/koliche",
+  "name": "koliche",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
