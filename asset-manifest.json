@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio.github.io/static/css/main.acc15149.css",
-    "main.js": "/portfolio.github.io/static/js/main.d1af31a3.js",
-    "static/media/portfolio3.png": "/portfolio.github.io/static/media/portfolio3.3f9603851a7b6009b5b9.png",
-    "static/media/mee.png": "/portfolio.github.io/static/media/mee.7cd16d8f0df85d152600.png",
-    "static/media/portfolio2.png": "/portfolio.github.io/static/media/portfolio2.7fa07f6c129ef1138dc5.png",
-    "static/media/portfolio6.jpg": "/portfolio.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.png": "/portfolio.github.io/static/media/portfolio1.1b5817b5c39b8e94a20b.png",
-    "static/media/portfolio4.png": "/portfolio.github.io/static/media/portfolio4.d02aa946e35a2548d49c.png",
-    "static/media/me.png": "/portfolio.github.io/static/media/me.8a83c917ff72622095b1.png",
-    "static/media/portfolio5.jpg": "/portfolio.github.io/static/media/portfolio5.ab3540dcc3159e77da1b.jpg",
-    "index.html": "/portfolio.github.io/index.html",
-    "main.acc15149.css.map": "/portfolio.github.io/static/css/main.acc15149.css.map",
-    "main.d1af31a3.js.map": "/portfolio.github.io/static/js/main.d1af31a3.js.map"
+    "main.css": "/koliche.github.io/static/css/main.acc15149.css",
+    "main.js": "/koliche.github.io/static/js/main.7b940031.js",
+    "static/media/portfolio3.png": "/koliche.github.io/static/media/portfolio3.3f9603851a7b6009b5b9.png",
+    "static/media/mee.png": "/koliche.github.io/static/media/mee.7cd16d8f0df85d152600.png",
+    "static/media/portfolio2.png": "/koliche.github.io/static/media/portfolio2.7fa07f6c129ef1138dc5.png",
+    "static/media/portfolio6.jpg": "/koliche.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.png": "/koliche.github.io/static/media/portfolio1.1b5817b5c39b8e94a20b.png",
+    "static/media/portfolio4.png": "/koliche.github.io/static/media/portfolio4.d02aa946e35a2548d49c.png",
+    "static/media/me.png": "/koliche.github.io/static/media/me.8a83c917ff72622095b1.png",
+    "static/media/portfolio5.jpg": "/koliche.github.io/static/media/portfolio5.ab3540dcc3159e77da1b.jpg",
+    "index.html": "/koliche.github.io/index.html",
+    "main.acc15149.css.map": "/koliche.github.io/static/css/main.acc15149.css.map",
+    "main.7b940031.js.map": "/koliche.github.io/static/js/main.7b940031.js.map"
   },
   "entrypoints": [
     "static/css/main.acc15149.css",
-    "static/js/main.d1af31a3.js"
+    "static/js/main.7b940031.js"
   ]
 }
