@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.acc15149.css",
-    "main.js": "/static/js/main.ce95f248.js",
-    "static/media/portfolio3.png": "/static/media/portfolio3.3f9603851a7b6009b5b9.png",
-    "static/media/mee.png": "/static/media/mee.7cd16d8f0df85d152600.png",
-    "static/media/portfolio2.png": "/static/media/portfolio2.7fa07f6c129ef1138dc5.png",
-    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.png": "/static/media/portfolio1.1b5817b5c39b8e94a20b.png",
-    "static/media/portfolio4.png": "/static/media/portfolio4.d02aa946e35a2548d49c.png",
-    "static/media/me.png": "/static/media/me.8a83c917ff72622095b1.png",
-    "static/media/portfolio5.jpg": "/static/media/portfolio5.ab3540dcc3159e77da1b.jpg",
-    "index.html": "/index.html",
-    "main.acc15149.css.map": "/static/css/main.acc15149.css.map",
-    "main.ce95f248.js.map": "/static/js/main.ce95f248.js.map"
+    "main.css": "/koliche-portfolio/static/css/main.acc15149.css",
+    "main.js": "/koliche-portfolio/static/js/main.4c140683.js",
+    "static/media/portfolio3.png": "/koliche-portfolio/static/media/portfolio3.3f9603851a7b6009b5b9.png",
+    "static/media/mee.png": "/koliche-portfolio/static/media/mee.7cd16d8f0df85d152600.png",
+    "static/media/portfolio2.png": "/koliche-portfolio/static/media/portfolio2.7fa07f6c129ef1138dc5.png",
+    "static/media/portfolio6.jpg": "/koliche-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.png": "/koliche-portfolio/static/media/portfolio1.1b5817b5c39b8e94a20b.png",
+    "static/media/portfolio4.png": "/koliche-portfolio/static/media/portfolio4.d02aa946e35a2548d49c.png",
+    "static/media/me.png": "/koliche-portfolio/static/media/me.8a83c917ff72622095b1.png",
+    "static/media/portfolio5.jpg": "/koliche-portfolio/static/media/portfolio5.ab3540dcc3159e77da1b.jpg",
+    "index.html": "/koliche-portfolio/index.html",
+    "main.acc15149.css.map": "/koliche-portfolio/static/css/main.acc15149.css.map",
+    "main.4c140683.js.map": "/koliche-portfolio/static/js/main.4c140683.js.map"
   },
   "entrypoints": [
     "static/css/main.acc15149.css",
-    "static/js/main.ce95f248.js"
+    "static/js/main.4c140683.js"
   ]
 }
