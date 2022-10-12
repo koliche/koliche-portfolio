@@ -1,14 +1,16 @@
 import React from 'react'
 import "./footer.css"
-import {FaFacebookF} from 'react-icons/fa'
-import {BsTwitter} from 'react-icons/bs'
-import {FaLinkedinIn} from 'react-icons/fa'
-import {FiGithub} from 'react-icons/fi'
+import ME from '../../assets/MyLogo.png'
+// import {FaFacebookF} from 'react-icons/fa'
+// import {BsTwitter} from 'react-icons/bs'
+// import {FaLinkedinIn} from 'react-icons/fa'
+// import {FiGithub} from 'react-icons/fi'
 
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">MyLogo</a>
+      
+       <a href="#" className="footer__logo"><img src={ME} alt=""/></a>
       {/*<ul className="permalinks">
         <li><a href="#">Home</a></li>
         <li><a href="#about">About</a></li>
