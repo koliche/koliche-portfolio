@@ -12,7 +12,7 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_mepkgfc', 'template_e4e17qr', form.current, 'YwO3TnTaDLpS8gPUP')
+    emailjs.sendForm('service_mepkgfc', 'template_e4e17qr', form.current, '0bK4RRqvf_PA2bIdl')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
