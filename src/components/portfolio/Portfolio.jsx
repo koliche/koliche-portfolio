@@ -13,42 +13,45 @@ const data = [
     image : IMG1,
     title : 'Moroccan Food Recipes Application',
     github : 'https://github.com/koliche/Moroccan-Food-Recipes',
-    demo : 'https://github.com/koliche/Moroccan-Food-Recipes'
+    demo : ''
   },
   {
     id : 2,
     image : IMG2,
-    title : 'Elearning Android Application',
+    title : 'E-learning Android Application',
     github : 'https://github.com/koliche/My-E-Learning',
-    demo : 'https://github.com/koliche/My-E-Learning'
+    demo : ''
   },
   {
     id : 3,
     image : IMG3,
     title : 'College Management System',
     github : 'https://github.com/Ray0Emma/Spring_FPBM',
-    demo : 'https://github.com/Ray0Emma/Spring_FPBM'
+    demo : ''
   },
   {
+    // change this !
     id : 4,
     image : IMG4,
     title : 'Site Web For Ecommerce ',
     github : 'https://github.com/koliche/SiteEcommerce2',
-    demo : 'https://github.com/koliche/SiteEcommerce2'
+    demo : ''
   },
   {
+    // change this !
     id : 5,
     image : IMG5,
     title : 'Multi Authentification With Laravel',
     github : 'https://github.com/koliche/Multi-Authentification-Laravel',
-    demo : 'https://github.com/koliche/Multi-Authentification-Laravel'
+    demo : ''
   },
   {
+    // change this !
     id : 6,
     image : IMG6,
     title : 'Site Web For Post\'s Management',
     github : 'https://github.com/koliche/Posts',
-    demo : 'https://github.com/koliche/Posts'
+    demo : ''
   }
 ]
 
@@ -69,6 +72,12 @@ const Portfolio = () => {
             <div className="portfolio__item-cta">
             <a href={github} className='btn' target= '_blank'>Github</a>
             <a href={demo} className='btn btn-primary' target= '_blank'>Live Demo</a>
+            {/* change demo button to this bellow! */}
+            {/* {demo !== '' ? (
+              <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+            ) : (
+              <span className='btn btn-primary disabled'>Live Demo</span>
+            )} */}
             </div>
         </article>
             )
