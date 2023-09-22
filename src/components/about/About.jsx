@@ -40,7 +40,7 @@ const About = () => {
             </div>
             <p>
             I am a Software Engineering Master's graduate seeking a Full Stack Java Internship or job. 
-            Well-versed in Java development, including Spring Boot and Angular, with a strong academic background. 
+            Well-versed in Java development, including Java EE, Spring Boot and Angular, with a strong academic background. 
             Enthusiastic about making meaningful contributions and advancing skills within a dynamic team.
             </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
