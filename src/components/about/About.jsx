@@ -39,9 +39,9 @@ const About = () => {
               </article>
             </div>
             <p>
-              I am currently a student in my first year of Master’s degree in Computer Science Engineering and I am
-            looking for a practical internship in one of those domain mobile development or web development, integrated in my training.I am very interested in completing my internship within
-            a company and gaining new skills.
+            I am a Software Engineering Master's graduate seeking a Full Stack Java Internship or job. 
+            Well-versed in Java development, including Spring Boot and Angular, with a strong academic background. 
+            Enthusiastic about making meaningful contributions and advancing skills within a dynamic team.
             </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
