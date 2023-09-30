@@ -1,16 +1,22 @@
 .about__container {
-    display: grid;
-    grid-template-columns: 35% 50%;
-    gap: 15%;
+    display: flex;
+    text-align: center;
+    position: relative;
+}
+
+
+.about__content{
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
 }
 
 .about__me {
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 2rem;
-    background: linear-gradient(45eg, transparent,var(--color-primary),transparent);
+    background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
     display: grid;
-    place-items: centre;
+    place-items: center; /* Corrected spelling */
 }
 
 .about_me-image {
@@ -20,8 +26,9 @@
     transition: var(--transition);
 }
 
-.about__content a{
-    margin-left: 49%;
+.about__content a {
+    margin-top: 2rem; /* Space above the text */
+    margin-bottom: 2rem; /* Space below the text */
 }
 
 .about_me-image:hover {
@@ -65,40 +72,40 @@
 }
 
 .about__content p {
-    margin: 2rem 0 2.6rem;
+    margin-top: 2rem; /* Space above the text */
+    margin-bottom: 2rem; /* Space below the text */
     color: var(--color-light);
 }
 
-/* ================= Media Queries (Medium Devices) =========================== */
-@media screen and ( max-width : 1024px ) {
+/* Media Queries (Medium Devices) */
+@media screen and (max-width: 1024px) {
     .about__container {
-        grid-template-columns: 1fr;
-        gap: 0;
+        flex-direction: column; /* Stack items vertically */
+        align-items: center; /* Center horizontally */
     }
     .about__me {
         width: 50%;
         margin: 2rem auto 4rem;
     }
     .about__content p {
-        margin: 1rem 0 1.5rem;
+        margin: 1rem 0 1.5rem; /* Adjust for medium devices */
     }
 }
 
-/* ================= Media Queries (Small Devices) =========================== */
-@media screen and ( max-width : 600px ) {
-    .about__me{
+/* Media Queries (Small Devices) */
+@media screen and (max-width: 600px) {
+    .about__me {
         width: 65%;
         margin: 0 auto 3rem;
     }
-    .about__cards{
+    .about__cards {
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
     }
-    .about__content{
+    .about__content {
         text-align: center;
     }
     .about__content p {
-        margin: 1.5rem 0;
-        
+        margin: 1.5rem 0; /* Adjust for small devices */
     }
 }
